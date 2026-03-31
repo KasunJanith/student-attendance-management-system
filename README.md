@@ -1,26 +1,26 @@
-# 🎓 Student Attendance Management System using JSP and MySQL
+# Student Attendance Management System using JSP and MySQL
 
 This project is a simple **web-based Student Attendance Management System** built using **JSP** and **MySQL**.  
 It allows administrators and teachers to efficiently manage courses, students, and attendance records through a simple web interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🧑‍💼 **Admin Panel**
+-  **Admin Panel**
   - Manage students, teachers, batches and courses
   - Add or delete courses
   - Assign teachers to courses
 
-- 👩‍🏫 **Teacherr Panel**
+-  **Teacherr Panel**
   - Manage attendance for assigned courses
   - View attendance summaries
 
-- 💾 **Database Integration**
+-  **Database Integration**
   - MySQL used for data storage
   - Predefined admin and user login credentials provided
 
-- 🎨 **Frontend**
+-  **Frontend**
   - Built with **Bootstrap 4** for a clean, responsive UI
 
 ---
@@ -53,12 +53,12 @@ Open NetBeans → File → Open Project → select the cloned folder.
 ### 4. Run the Project
 - Right-click the project → Run
 
-🔐 Login Credentials
-👨‍💼 Admin Login
+ Login Credentials
+ Admin Login
               Username: admin
               Password: admin
 
-👩‍🏫 Sample User Login
+ Sample User Login
               Username: Amrutha
               Password: 123
 
